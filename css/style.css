@@ -1,0 +1,21 @@
+body{
+    font-size: 2rem;
+    text-align: center;
+    background-color: darkcyan;
+}
+input{
+    padding: 10px;
+    font-size: 1rem;
+    border-radius: 16px;
+}
+#showPokemon{
+    padding: 20px 20vh;
+    text-align: center;
+    display: block;
+}
+#showPokemon img{
+    width: 200px;
+    display: block;
+    padding: 20px 40%;
+    
+} 
